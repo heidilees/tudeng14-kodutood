@@ -1,0 +1,17 @@
+-bash-3.2Â muutus tudeng14ks
+total 12
+drwxr-xr-x 2 tudeng14 tudengid 4096 Apr  7 11:43 .
+drwx------ 6 tudeng14 tudengid 4096 Apr  7 11:55 ..
+-rw-r--r-- 1 tudeng14 tudengid   29 Apr  7 11:43 muutus.txt
+total 40
+drwx------ 6 tudeng14 tudengid 4096 Apr  7 11:55 .
+drwxr-xr-x 8 root     root        0 Apr  7 12:08 ..
+-rw------- 1 tudeng14 tudengid  239 Apr  7 11:35 .bash_history
+-rw-r--r-- 1 tudeng14 tudengid  176 Apr  7 11:34 .bash_profile
+-rw-r--r-- 1 tudeng14 tudengid  124 Apr  7 11:33 .bashrc
+drwxr-xr-x 4 tudeng14 tudengid 4096 Mar 31 15:49 bio
+-rw-r--r-- 1 tudeng14 tudengid  633 Apr  7 13:06 muutus.txt
+-rw-r--r-- 1 tudeng14 tudengid  104 Mar 31 15:49 .ncbirc
+drwx------ 2 tudeng14 tudengid 4096 Mar 31 15:50 .ssh
+drwxr-xr-x 3 tudeng14 tudengid 4096 Mar 31 15:49 .t_coffee
+drwxr-xr-x 2 tudeng14 tudengid 4096 Apr  7 11:43 too_5

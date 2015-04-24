@@ -20,7 +20,7 @@ def main():
 	ruutjuur(n)
 
 	text_file = open("Vastus.txt", "w")
-	text_file.write(str(sqrt(n)))
+	text_file.write(str(ruutjuur(n)))
 	text_file.close()
 
 if __name__ == "__main__":
